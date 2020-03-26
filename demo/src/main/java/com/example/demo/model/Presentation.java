@@ -10,7 +10,7 @@ public class Presentation {
         setIntroduction("This API is developed by Russi Antonio using Spring Boot");
         setAdding("For information contacts");
         setEmail("antoniorussi1972@gmail.com");
-        setPhone("+39 3248797423");
+        setPhone("Almost Private");
     }
 
     private void setIntroduction(String introduction) {
